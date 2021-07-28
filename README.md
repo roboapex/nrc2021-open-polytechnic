@@ -1,1 +1,1 @@
-# nrc2021-open-polytechnic
+# nrc2021-reg-polytechnic
